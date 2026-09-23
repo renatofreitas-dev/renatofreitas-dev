@@ -9,6 +9,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho foco no desenv
 ### 💻 Tech Stack & Ferramentas
 
 **Linguagens & Frameworks (Foco & Estudos):**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -17,8 +18,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho foco no desenv
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Bancos de Dados & Ferramentas:**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -34,12 +37,12 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho foco no desenv
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatofreitas-dev&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatofreitas-dev&show_icons=true&theme=tokyonight)
-
----
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatofreitas-dev&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renatofreitas-dev&theme=tokyonight" />
+</p>
 
 ### 📬 Vamos nos conectar?
 
