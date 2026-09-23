@@ -49,8 +49,3 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho foco no desenv
     </td>
   </tr>
 </table>
-
-### 📬 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/freitas-renato898)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freitasrenato898@gmail.com)
