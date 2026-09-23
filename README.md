@@ -40,8 +40,8 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho foco no desenv
 ### 📊 Estatísticas & Linguagens
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatofreitas-dev&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renatofreitas-dev&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatofreitas-dev&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renatofreitas-dev&theme=tokyonight" />
 </p>
 
 ### 📬 Vamos nos conectar?
